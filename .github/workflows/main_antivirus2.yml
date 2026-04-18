@@ -20,4 +20,3 @@ jobs:
         with:
           app-name: antivirus2
           publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
-			
